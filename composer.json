@@ -1,0 +1,18 @@
+{
+    "name": "charl/public",
+    "description": "quete php composer",
+    "authors": [
+        {
+            "name": "Charly",
+            "email": "charly.vial04@gmail.fr"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+
+}
+
+        
